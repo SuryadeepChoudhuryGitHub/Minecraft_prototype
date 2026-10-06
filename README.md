@@ -1,4 +1,4 @@
-# Python Voxel Engine (Minecraft Clone)
+# Python Voxel Engine (Minecraft Clone) 
 
 A high-performance, voxel-based sandbox game (Minecraft clone) written entirely in Python. This project leverages the power of **ModernGL** for fast GPU rendering and **Numba** for just-in-time (JIT) compilation to handle complex terrain generation efficiently.
 
