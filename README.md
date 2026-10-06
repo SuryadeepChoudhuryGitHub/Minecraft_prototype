@@ -2,7 +2,7 @@
 
 A high-performance, voxel-based sandbox game (Minecraft clone) written entirely in Python. This project leverages the power of **ModernGL** for fast GPU rendering and **Numba** for just-in-time (JIT) compilation to handle complex terrain generation efficiently.
 
-## 🌟 Features
+## 🌟 Features 
 
 * **Procedural Terrain Generation:** Utilizes Perlin noise to generate diverse landscapes including islands, hills, and cave systems.
 * **Dynamic Biomes/Layers:** Terrain changes based on elevation, featuring Sand, Grass, Dirt, Stone, and Snow layers.
